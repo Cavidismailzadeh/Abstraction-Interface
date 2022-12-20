@@ -1,0 +1,15 @@
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction Interface.exe
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction Interface.deps.json
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction Interface.runtimeconfig.json
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction Interface.dll
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction Interface.pdb
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.csproj.AssemblyReference.cache
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.AssemblyInfoInputs.cache
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.AssemblyInfo.cs
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.csproj.CoreCompileInputs.cache
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.dll
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\refint\Abstraction Interface.dll
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.pdb
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction Interface.genruntimeconfig.cache
+C:\Users\javidai\Desktop\Abstraction, Interface\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\ref\Abstraction Interface.dll
